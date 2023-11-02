@@ -1,23 +1,50 @@
 Four sections of work:
 1. Base Game Mechanics
-    - [ ] Map Generation 
+    - [ ] Map Generation
+        - See MAPGENERATION.md
+        - See GAMEPLANNING.md
     - [ ] Turn Based System
+        - See TURNBASED.md
     - [ ] Event Handling
+        - See EVENTS.md
     - [ ] Combat Handling
+        - See COMBATBASE.md
+        - See ITEMS.md
+        - See EVENTS.md
     - [ ] Data Saving 
+        - See DATA.md
     - [ ] Data Storing
+        - See DATA.md
     - [ ] Data Loading
+        - See DATA.md
     - [ ] Data Handling
+        - See DATA.md
     - [ ] Game Structure
+        - See GAMEPLANNING.md
+    - [ ] Plot, Setting
+        - See GAMEPLANNING.md
 2. Expanded Game Mechanics
     - [ ] Items!
+        - See ITEMS.md
     - [ ] Effects
+        - See ITEMS.md
     - [ ] NPCs
+        - See NPC.md
+        - See QUESTS.md
     - [ ] Enemies
+        - See ENEMY.md
     - [ ] Multiple Players?
+        - See FUTURE.md
+    - [ ] Quests
+        - See QUESTS.md
 3. Theming
     - [ ] Style?
+        - See GAMEPLANNING.md
     - [ ] Specific Items
+        - See ITEMS.md
+        - See ITEMLIST.md
 4. Polishing
     - [ ] Main Menu
+        - See GAMEPLANNING.md
     - [ ] Code Clean-up
+        - See CODEOPTANDCLEAN.md
