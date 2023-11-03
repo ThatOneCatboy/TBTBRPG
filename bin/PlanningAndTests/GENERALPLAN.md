@@ -23,6 +23,8 @@ Four sections of work:
         - See GAMEPLANNING.md
     - [ ] Plot, Setting
         - See GAMEPLANNING.md
+    - [ ] Open Source Management
+        - See GAMEPLANNING.md
 2. Expanded Game Mechanics
     - [ ] Items!
         - See ITEMS.md
